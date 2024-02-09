@@ -1,0 +1,44 @@
+body {
+    background-color: rgb(78, 113, 103);
+}
+.nav_bar{
+    background-size: cover;
+    background-color:#18484a;
+    height: 100px;
+    border-radius: 25PX;
+    padding-left: 200px;
+    padding-right: 25px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+  
+
+   
+    
+}
+a{
+    color: rgb(243, 189, 189);
+    margin-right: 200px;
+    text-decoration: none;
+    font-size: large;
+    font-style: italic;
+}
+a:hover{
+    color: rgb(233, 48, 11);
+}
+p{
+    color: white;
+    font-size: x-large;
+}
+.content{
+    padding-left: 45px;
+    padding-right: 45px;
+}
+li{
+    color: aliceblue;
+}
+.abn{
+    font-size: x-large;
+    color:white;
+}
